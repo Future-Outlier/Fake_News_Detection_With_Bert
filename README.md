@@ -2,7 +2,7 @@
 ## 0.Dataset from Kaggle 
 https://www.kaggle.com/c/fake-news/data?select=train.csv
 
-## 1.Detect fake news by analyzing title with BERT model
+## 1.Detect fake news by analyzing news title with BERT model
 ![image](https://user-images.githubusercontent.com/76461262/156306245-febbbeb5-0588-4c59-9169-f38d269231fd.png)
 
 ## 2.The model architecture
