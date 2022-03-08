@@ -1,6 +1,6 @@
 # Fake_News_Detection_With_Bert
 ## Project Description
-Detect fake news from title by training a model using Bert.
+Detect fake news from title by training a model using Bert to accuracy 88%.
 ## How to run the project?
 
 Run Fake_News_Detection_With_Bert.ipynb by
