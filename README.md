@@ -3,10 +3,10 @@
 Detect fake news from title by training a model using Bert.
 ## How to run the project?
 
+run Fake-News-Detection-With-Bert.ipynb by
 ```sh
 jupyter notebook
 ```
-and then run Fake-News-Detection-With-Bert.ipynb
 or 
 ```sh
 python Fake-News-Detection-With-Bert.py
