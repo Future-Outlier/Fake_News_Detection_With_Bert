@@ -11,7 +11,7 @@ or
 python main.py -p <path_to_your_video> -d V 0.5 
 ```
 
-## The structure of the project
+## The details of the project
 ### 0.Dataset from Kaggle 
 https://www.kaggle.com/c/fake-news/data?select=train.csv
 
