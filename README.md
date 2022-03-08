@@ -8,7 +8,7 @@ jupyter notebook
 ```
 or 
 ```sh
-python main.py -p <path_to_your_video> -d V 0.5 
+python fake_news_detection_with_bert.py
 ```
 
 ## The details of the project
