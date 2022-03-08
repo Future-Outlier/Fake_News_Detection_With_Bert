@@ -8,7 +8,7 @@ jupyter notebook
 ```
 or 
 ```sh
-python fake_news_detection_with_bert.py
+python Fake-News-Detection-With-Bert.py
 ```
 
 ## The details of the project
